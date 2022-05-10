@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profil/static/css/main.b60ec8e7.css",
+    "main.js": "/profil/static/js/main.e53f27e2.js",
+    "static/js/787.53dd393c.chunk.js": "/profil/static/js/787.53dd393c.chunk.js",
+    "static/media/predatech.JPG": "/profil/static/media/predatech.aaef7e139ee19d678e78.JPG",
+    "static/media/kongres2.JPG": "/profil/static/media/kongres2.2c7c3ebacd2f29c88876.JPG",
+    "static/media/asomatif.JPG": "/profil/static/media/asomatif.84ef190d1fcc2e708c71.JPG",
+    "static/media/webgdsc1.png": "/profil/static/media/webgdsc1.354484659a209e1e68fb.png",
+    "static/media/foto.png": "/profil/static/media/foto.13675406137c8dd3b242.png",
+    "static/media/trashcare.png": "/profil/static/media/trashcare.2f0b9c164ab4ee2401f1.png",
+    "static/media/ilustrasi.png": "/profil/static/media/ilustrasi.365e0d4d5020c6330654.png",
+    "static/media/kongres.jpeg": "/profil/static/media/kongres.254ca023bfb537a7eadf.jpeg",
+    "static/media/STUDENT_LOGO.png": "/profil/static/media/STUDENT_LOGO.d1c86cd6b1daf06e8cb8.png",
+    "index.html": "/profil/index.html",
+    "main.b60ec8e7.css.map": "/profil/static/css/main.b60ec8e7.css.map",
+    "main.e53f27e2.js.map": "/profil/static/js/main.e53f27e2.js.map",
+    "787.53dd393c.chunk.js.map": "/profil/static/js/787.53dd393c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b60ec8e7.css",
+    "static/js/main.e53f27e2.js"
+  ]
+}
